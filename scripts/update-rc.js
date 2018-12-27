@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-/* eslint strict:0, camelcase:0 */
+/* learning git eslint strict:0, camelcase:0 */
 
 'use strict';
 
